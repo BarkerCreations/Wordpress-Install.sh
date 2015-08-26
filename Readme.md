@@ -1,4 +1,5 @@
-**README**
+#README
+
 Experiment in setting up new wordpresses with database in one script.
 
 *TODO:*
